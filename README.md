@@ -1,4 +1,4 @@
-# Face Recognition System 
+# Face Recognition System - course project of Couresra Deep Learning Specialization
  
 Face recognition problems commonly fall into one of two categories:
 
