@@ -1,4 +1,4 @@
-# face_recognition
+# Face Recognition System
 A face recognition system, mainly using FaceNet - course project for Coursera Deep Learning 
 
 The following task has been completed in this project:
