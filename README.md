@@ -1,5 +1,5 @@
 # Face Recognition System
-A face recognition system, mainly using FaceNet - course project for Coursera Deep Learning 
+A face recognition system, mainly using FaceNet - course project for Coursera Deep Learning Specialization.
 
 The following task has been completed in this project:
 1. Implement the triplet loss function
